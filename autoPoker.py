@@ -1,3 +1,7 @@
+# author: Sherif Khairy
+# Date: 2/3/2024
+# Description: This script is used to poke back all the pokes on facebook using selenium and chromedriver
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
